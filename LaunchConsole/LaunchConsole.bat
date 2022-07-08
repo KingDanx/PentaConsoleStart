@@ -1,0 +1,1 @@
+powershell.exe -command "& 'C:\PentaInstall\Software\LaunchConsole\CheckConnection.ps1'
