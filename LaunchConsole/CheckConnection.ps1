@@ -7,6 +7,6 @@ while($ping -eq $false){
 }
 
 if($ping -eq $true){
-    -Output "it work"
+    Write-Output "it work"
     Start-Process -FilePath "WinQtConsole" -WorkingDirectory "C:\Program Files\Penta\NTConsol"
 }
